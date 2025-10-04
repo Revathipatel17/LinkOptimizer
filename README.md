@@ -28,8 +28,3 @@ git clone https://github.com/YourUsername/URL-Shortener.git
 Open indexurl.html in your browser.
 
 Enter a long URL and generate a short link instantly.
-
-🌎 Live Demo
-
-👉 (Enable GitHub Pages in Settings → Pages → Branch: main → root and paste the link here.)
-Example: https://yourusername.github.io/URL-Shortener/
